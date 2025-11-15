@@ -12,6 +12,13 @@ A comprehensive tool for exploring and optimizing CUDA kernels at the SASS assem
 
 Both CLI and web UI (Gradio) interfaces are provided for maximum flexibility.
 
+## Demo Video
+
+Watch a quick demo of the SASS Playground workflow:
+
+<video src="https://github.com/fefespn/sassplayground/raw/main/Recording-cuda-cubin-cuasm-cubin-run.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 ## Requirements
 
 - **CUDA Toolkit** 11.0+
