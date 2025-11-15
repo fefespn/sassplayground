@@ -1,0 +1,7 @@
+click>=8.0.0
+pycuda>=2022.1
+numpy>=1.21.0
+#triton>=2.0.0
+#torch>=2.0.0  # Required for Triton
+rich>=10.0.0  # For beautiful CLI output
+gradio>=3.0.0
