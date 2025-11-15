@@ -16,8 +16,9 @@ Both CLI and web UI (Gradio) interfaces are provided for maximum flexibility.
 
 Watch a quick demo of the SASS Playground workflow:
 
-<video src="https://github.com/fefespn/sassplayground/raw/main/Recording-cuda-cubin-cuasm-cubin-run.mp4" controls="controls" style="max-width: 730px;">
-</video>
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=github)](https://github.com/fefespn/sassplayground/raw/main/Recording-cuda-cubin-cuasm-cubin-run.mp4)
+
+Or download directly: [Recording-cuda-cubin-cuasm-cubin-run.mp4](https://github.com/fefespn/sassplayground/raw/main/Recording-cuda-cubin-cuasm-cubin-run.mp4)
 
 ## Requirements
 
